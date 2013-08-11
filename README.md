@@ -10,3 +10,7 @@ Features
 - Follows a figure-of-8 track using **Proportional-Integral-Derivative (PID) Control Algorithm**
 - Waits for 8 seconds before moving as per design specifications. The countdown is displayed on a 7-segment display
 - Counts the number of laps and shows the robot's **live position** on the track using the 7-segment display ("Pseudo-GPS")
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jianyuan/EEBug-GDP/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
